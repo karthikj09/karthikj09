@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node.js APIs and building clean, scalable backend systems.<br>👯 I’m looking to collaborate on backend projects that focus on performance, simplicity, and maintainable codebases.<br>🤝 I’m looking for help with optimizing test coverage and improving workflows for seamless integration between backend services and UIs.<br>🌱 I’m currently learning system design strategies and refining my knowledge in this area<br>💬 Ask me about JavaScript, Node.js, testing with Jest, or how to manage APIs efficiently.<br>⚡ Fun fact: I love keeping things minimal and straightforward, whether it's in code or design!
+🔭 I’m currently working on Node.js UI, APIs and building clean, scalable systems.<br>👯 I’m looking to collaborate on software projects that focus on performance, simplicity, and maintainable codebases.<br>🤝 I’m looking for help with optimizing testing and improving workflows for seamless integration between backend services and UIs.<br>🌱 I’m currently learning system design strategies and refining my knowledge in this area<br>💬 Ask me about JavaScript, Node.js, testing with Jest, or how to manage APIs efficiently.<br>⚡ Fun fact: I love keeping things minimal and straightforward, whether it's in code or design!
 
 
 ## 🌐 Socials:
