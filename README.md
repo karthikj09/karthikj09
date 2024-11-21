@@ -4,7 +4,7 @@ Hey there !!! ![](https://user-images.githubusercontent.com/18350557/176309783-0
 Software Developer
 ------------------
 
-🔭 I’m currently working on Node.js UI, APIs and building clean, scalable systems<br> 👯 I’m looking to collaborate on software projects that focus on performance, simplicity, and maintainable codebases<br> 🤝 I’m looking for help with optimizing testing and improving workflows for seamless integration between backend services and UIs<br> 🌱 I’m currently learning system design strategies and refining my knowledge in this area<br> 💬 Ask me about JavaScript, Node.js, testing with Jest, or how to manage code efficiently<br> ⚡ Fun fact: I love keeping things minimal and straightforward, whether it's in code or design!<br>
+🔭 I’m currently working on Node.js UI, APIs and building clean, scalable systems<br> 👯 I’m looking to collaborate on software projects that focus on performance, simplicity, and maintainable codebases<br> 🤝 I’m looking for help with optimizing testing and improving workflows for seamless integration between backend services and UIs<br> 🌱 I’m currently learning system design strategies and refining my knowledge in this area<br> 💬 Ask me about JavaScript, Node.js, testing with Jest, or how to manage code efficiently<br> ⚡ Fun fact: I love keeping things minimal and straightforward, whether it's in code or design!<br> 
 
 🌍  I'm based in Mangalore 🔄 Bangalore, India<br>
 ✉️  You can contact me at [karthikj9702@gmail.com](mailto:karthikj9702@gmail.com)
